@@ -1,1 +1,1 @@
-Welcome to token 1.
+Welcome to token 1. Enjoy
